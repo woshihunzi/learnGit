@@ -1,0 +1,13 @@
+{
+  "DEBUG": true,
+  "sudoPwd": "hao10086",
+  "save_path": "/home/chenjiahao/ArcherIOT/downloadFromRedis/",
+  "out_path": "/home/chenjiahao/ArcherIOT/redisFirmwareOutput/",
+  "agent_id": "iot_static_analysis_subtask",
+  "redis_host":"proxy6.asec.buptnsrc.com",
+  "redis_port": "6380",
+  "redis_pwd": "test!@#",
+  "task_queue": "iot_static_analysis_subtask_queue",
+  "result_queue": "iot_static_analysis_subtask_result_queue",
+  "download_host": "http://proxy6.asec.buptnsrc.com"
+}
